@@ -11,3 +11,10 @@ Nesse módulo abordamos Iaas Paas Saas:
 - Iaas Infraestrutura como serviço
 - Paas Plataforma como serviço
 - Software como serviço
+
+Nesse módulo abordamos:
+- redes virtuais;
+- Área de trabalho remoto;
+- Docker;
+- AKS;
+- Regiões, Zonas.
